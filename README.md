@@ -52,6 +52,7 @@ ENTER
 check your telegram app for otp and input it
 
 ENTER
+ENTER 
 ### 7. Create a screen
 ```sh
 screen -R Tomato
